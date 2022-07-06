@@ -1,5 +1,4 @@
-<a name="top"></a>
-[<img src="../Buttons/SVG/back.svg" height="35" width="auto"/>](README.md)
+[<img src="https://github.com/ryayoung/icons/blob/main/svg/arrow.left.blue.svg" height="30"/>](https://github.com/ryayoung/graphic-design)
 
 # Fall 2018 Infographic Contest - Daniels College of Business
 ### 2nd Place Winner

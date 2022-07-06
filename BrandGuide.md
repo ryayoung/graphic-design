@@ -1,11 +1,10 @@
-<a name="top"></a>
-[<img src="../Buttons/SVG/back.svg" height="35" width="auto"/>](README.md)
+[<img src="https://github.com/ryayoung/icons/blob/main/svg/arrow.left.blue.svg" height="30"/>](https://github.com/ryayoung/graphic-design)
+
 # Anode
-<hr>
 
-<i>Anode is the next generation of travel centers. Built for electric vehicles, Anode is rigorously focused on creating the best possible road trip experience.</i>
+> Anode is the next generation of travel centers. Built for electric vehicles, Anode is rigorously focused on creating the best possible road trip experience.
 
-Below is a couple pages from the brand guide I created for Anode, a fictitious company.
+Below is a couple pages from the brand guide for this fictitious company.
 
 <hr>
 

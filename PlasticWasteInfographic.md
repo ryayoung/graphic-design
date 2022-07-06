@@ -1,6 +1,4 @@
-<a name="top"></a>
-[<img src="../Buttons/SVG/back.svg" height="35" width="auto"/>](README.md)
-<br>
+[<img src="https://github.com/ryayoung/icons/blob/main/svg/arrow.left.blue.svg" height="30"/>](https://github.com/ryayoung/graphic-design)
 
 # Infographic Deck - Plastic Waste
 ## November 2018
